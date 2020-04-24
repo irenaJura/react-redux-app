@@ -17,5 +17,6 @@ export default function apiCallStatusReducer(
   ) {
     return state - 1;
   }
+
   return state;
 }
